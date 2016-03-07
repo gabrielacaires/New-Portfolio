@@ -1,0 +1,52 @@
+body {
+	background-color: lightgray;
+}
+
+.mainimg {
+	display: block;
+	padding: 0;
+	height: auto;
+	width: 100%;
+	overflow: hidden;
+}
+
+.navbar {
+	position: absolute;	
+	display: inline-block;
+	width: 100%;
+	background-color: none;
+}
+
+ul li {
+	display: inline-block;
+	color: white;
+	font-weight: bold;
+	list-style: none;
+	padding: 10px;
+	line-height: 35	px;
+	font-size: 20px;
+	margin: 0 20px;
+}
+
+.navitems {
+	top: 0;
+	left: 0;
+	width: 700px;
+	margin: 0 auto;
+}
+
+.gabi {
+	font-family: "Copperplate Gothic Light", serif;
+	font-size: 150px;
+	color: white;
+	position: absolute;
+	top: 250px;
+	left: 350px;
+}
+
+/*.content {
+	height: 400px;
+	width: 900px;
+	background-color: lightblue;
+	margin: 0 auto;
+}*/
